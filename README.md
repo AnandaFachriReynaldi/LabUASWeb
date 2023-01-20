@@ -11,4 +11,4 @@ Link Demo : https://afreynaldi.000webhostapp.com/login.php
 username : admin <br>
 password : admin
 <br>
-Link Video : https://youtu.be/-t6stn_q1ac
+Link Video : https://youtu.be/z0BFp8B2yVE
