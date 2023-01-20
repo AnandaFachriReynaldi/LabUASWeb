@@ -6,7 +6,7 @@
 <b>UAS</b><br>
 <b>Membuat Sistem Checklist Kebersihan Toilet</b>
 <br><br>
-Link Demo : https://afreynaldiuas.000webhostapp.com/login.php
+Link Demo : https://afreynaldi.000webhostapp.com/login.php
 <br>
 username : admin <br>
 password : admin
