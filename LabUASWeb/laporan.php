@@ -63,7 +63,7 @@ $result = mysqli_query($conn, $sql);
             </table>
         </div><br>
     </div>
-    <footer>
+    <footer> 
         <p>&copy; 2023, Teknik Informatika, Universitas Pelita Bangsa</p>
     </footer>
 </body>
