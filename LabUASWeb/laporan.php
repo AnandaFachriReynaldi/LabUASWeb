@@ -31,7 +31,7 @@ $result = mysqli_query($conn, $sql);
         </nav>
         <div class="container">
             <tr>
-                <a href="tambah.php?id=" class="buttontambah">Tambah Data Toilet</a> <br><br><br>
+                <a href="tambah_toilet.php?id=" class="buttontambah">Tambah Data Toilet</a> <br><br><br>
             </tr>
             <form action="" method="get">
                 <label for="q">Cari Data </label>
